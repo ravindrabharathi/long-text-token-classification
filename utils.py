@@ -311,13 +311,13 @@ class EarlyStopping(Callback):
             "Rebuttal": 4,
         }
         proba_thresh = {
-            "Lead": 0.7,
-            "Position": 0.55,
-            "Evidence": 0.65,
-            "Claim": 0.55,
-            "Concluding Statement": 0.7,
-            "Counterclaim": 0.5,
-            "Rebuttal": 0.55,
+            "Lead": 0.687,
+            "Position": 0.537,
+            "Evidence": 0.637,
+            "Claim": 0.537,
+            "Concluding Statement": 0.687,
+            "Counterclaim": 0.537,
+            "Rebuttal": 0.537,
         }
 
         for _, sample in enumerate(self.valid_samples):
