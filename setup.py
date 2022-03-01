@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='long_text_token_classification',
-      version='0.01',
+      version='0.02',
       description='long-text-token-classification',
       url='https://github.com/ravindrabharathi/long-text-token-classification',
       author='ravindrabharathi',
