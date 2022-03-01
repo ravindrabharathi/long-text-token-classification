@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='long-text-token-classification',
+setup(name='long_text_token_classification',
       version='0.01',
       description='long-text-token-classification',
       url='https://github.com/ravindrabharathi/long-text-token-classification',
