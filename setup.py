@@ -7,5 +7,5 @@ setup(name='long_text_token_classification',
       author='ravindrabharathi',
       author_email='srbharathee@gmail.com',
       license='MIT',
-      packages=['long-text-token-classification'],
+      packages=['long_text_token_classification'],
       zip_safe=False)
