@@ -12,7 +12,7 @@ from sklearn import metrics
 from torch.nn import functional as F
 from transformers import AdamW, AutoConfig, AutoModel, AutoTokenizer, get_cosine_schedule_with_warmup
 
-from utils import EarlyStopping, prepare_training_data, target_id_map
+from long_text_token_classification.utils import EarlyStopping, prepare_training_data, target_id_map
 
 warnings.filterwarnings("ignore")
 
